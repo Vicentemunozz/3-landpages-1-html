@@ -2,10 +2,11 @@ header{
     background-image: url(/images/fondo.jpg);
     background-size: cover;
     background-position: center;
-
+    height: 200px;
 }
 
 header h1{
+    padding-top: 50px;
     text-align: center;
 }
 
@@ -13,14 +14,9 @@ header h2{
     text-align: center;
 }
 
-.titulo2{
-    color: rgb(24, 68, 163);
-    background-color: rgb(84, 221, 255);
-
-}
-
 div{
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .img1{
@@ -28,6 +24,7 @@ div{
     width: 300px;
     height: 200px;
     margin-left: 300px;
+    margin-right: 10px;
 
 }
 
@@ -39,4 +36,6 @@ footer{
     background-color: rgb(194, 131, 37);
     color: aliceblue;
     text-align: center;
+    height: 100px;
+    padding-top: 30px;
 }
