@@ -8,10 +8,12 @@ header{
 header h1{
     padding-top: 50px;
     text-align: center;
+    color: white;
 }
 
 header h2{
     text-align: center;
+    color: white;
 }
 
 div{
@@ -21,7 +23,7 @@ div{
 
 .img1{
     border: 1px solid rgb(0, 0, 0);
-    width: 300px;
+    width: 400px;
     height: 400px;
     margin-left: 300px;
     margin-right: 10px;
@@ -33,7 +35,7 @@ h2{
 }
 
 footer{
-    background-color: rgb(234, 238, 0);
+    background-color: rgb(226, 1, 1);
     color: black;
     text-align: center;
     height: 100px;
